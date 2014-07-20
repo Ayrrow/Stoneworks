@@ -2,13 +2,18 @@ Stoneworks
 ===========
 (c) Ayrrow 2014
 
-Stoneworks for Minecraft 1.7.10
+Stoneworks for Minecraft (currently 1.7.10)
+
+WORK IN PROGRESS
+
+Heavily based off Pahimar's Let's Mod Reboot (github.com/pahimar & youtube.com/pahimar)
 
 This mod adds a collection of items that mimic their vanilla wooden counterparts, as well as a couple of useful blocks and items build from stone.
 
 The objective of this mod is to provide an alternative to trees in the early game allowing custom worlds that lack trees, or giving the player a different set of options in a normal world.
 
 <h1> WIP Blocks/Items. </h1>
+<h4> For first public release </h4>
 
 * Reinforced Stone - Is a blast resistant (near Obsidian) building block that is used in a variety of recipes and items. Includes Bricks and other variants. Decorate all the things!
 
@@ -29,15 +34,6 @@ The objective of this mod is to provide an alternative to trees in the early gam
 * Reinforced Stone Chest - Large size chest, almost impervious to explosions, can be locked. 8 reinforced stone.
 
 
-
-<h1> Other Things </h1>
-
-* Redstone Flux [RF] support, including a generator (or two) and eventually machines.
-
-* FMP support for Reinforced Stone.
-
-
-
 <h1> Future Plans. </h1>
 
 * Delver's Helmet - Iron Helmet with a light source; requires fuel.
@@ -52,16 +48,24 @@ The objective of this mod is to provide an alternative to trees in the early gam
 * Synthetic Fuel - Fischer–Tropsch process from Coal - this will involve a multiblock of somesort.
 
 
+<h1> Other Things </h1>
+
+* Redstone Flux [RF] support, including a generator (or two) and eventually machines.
+
+* FMP support for Reinforced Stone.
+
+
+
 
 
 
 
 <h1> Thanks. </h1>
 
-Pahimar for his Let's Mod Tutorials.
+* Pahimar for his Let's Mod Tutorials.
 
-VSWE for his Tutorials/Lessons.
+* VSWE for his Tutorials/Lessons.
 
-CPW for the Iron Chests repo
+* CPW & ProgWML6 for the Iron Chests repo.
 
-Direwolf20 for keeping me sane with his awesome daily videos.
+* Direwolf20 for keeping me sane with his awesome daily videos.
