@@ -1,0 +1,21 @@
+[
+{
+  "modid": "stoneworks",
+  "name": "Stoneworks",
+  "description": "Working with Stone!",
+  "version": "0.1A",
+  "mcversion": "1.7.10",
+  "url": "https://github.com/Ayrrow/Stoneworks",
+  "updateUrl": "",
+  "authorList": [
+    "Ayrrow"
+  ],
+  "credits": "Pahimar, VSWE, CPW & More!",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
