@@ -20,7 +20,9 @@ This mod adds a collection of items that mimic their vanilla wooden counterparts
 The objective of this mod is to provide an alternative to trees in the early game allowing custom worlds that lack trees, or giving the player a different set of options in a normal world.
 
 <h1> WIP Blocks/Items. </h1>
-<h4> For first public release </h4>
+
+<h4> Planned for version 1.0r </h4>
+
 
 * Reinforced Stone - Is a blast resistant (near Obsidian) building block that is used in a variety of recipes and items. Includes Bricks and other variants. Decorate all the things!
 
@@ -39,7 +41,6 @@ The objective of this mod is to provide an alternative to trees in the early gam
 * Stone Chest - Slightly smaller, but cheaper and easier to craft chest. Requires 5 cobble and 3 (smooth) stone.
 
 * Reinforced Stone Chest - Large size chest, almost impervious to explosions, can be locked. 8 reinforced stone.
-
 
 <h1> Future Plans. </h1>
 
