@@ -1,12 +1,12 @@
-package com.ayrrow.Stoneworks.Utility;
-import com.ayrrow.Stoneworks.Reference.Reference;
+package com.ayrrow.Stoneworks.utility;
+import com.ayrrow.Stoneworks.reference.Reference;
 import cpw.mods.fml.common.FMLLog;
 import org.apache.logging.log4j.Level;
 
 /**
- * Created by Ayrrow on 20/07/2014.
  * Copied from pahimar <3.
  */
+
 public class LogHelper
 {
 

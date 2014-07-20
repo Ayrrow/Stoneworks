@@ -1,11 +1,7 @@
 package com.ayrrow.Stoneworks;
 
-/**
- * Created by Ayrrow on 20/07/2014.
- */
-
-import com.ayrrow.Stoneworks.Proxy.IProxy;
-import com.ayrrow.Stoneworks.Reference.Reference;
+import com.ayrrow.Stoneworks.proxy.IProxy;
+import com.ayrrow.Stoneworks.reference.Reference;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
@@ -19,9 +15,9 @@ public class stoneworks
     @Mod.Instance(Reference.MOD_ID)
     public static stoneworks instance;
 
-    @SidedProxy(clientSide = "com.ayrrow.Stoneworks.Proxy.ClientProxy", serverSide = "com.ayrrow.Stoneworks.Proxy.ServerProxy")
+    @SidedProxy(clientSide = "com.ayrrow.Stoneworks.proxy.ClientProxy", serverSide = "com.ayrrow.Stoneworks.proxy.ServerProxy")
     public static IProxy proxy;
-    //Pre-Inital
+    //Pre-Init
     @Mod.EventHandler
     public void preInit(FMLPreInitializationEvent event)
     {
@@ -29,7 +25,7 @@ public class stoneworks
 
     }
 
-    //Inital (GUI, Event Handlers, Tile entitites etc)
+    //Init (GUI, Event Handlers, Tile Entities etc)
 
    @Mod.EventHandler
     public void init(FMLInitializationEvent event)
@@ -37,7 +33,7 @@ public class stoneworks
 
 
    }
-    //Post-Inital
+    //Post-Init
 
     @Mod.EventHandler
     public void postInit(FMLPostInitializationEvent event)
