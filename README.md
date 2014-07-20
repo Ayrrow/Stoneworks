@@ -9,6 +9,7 @@ This mod adds a collection of items that mimic their vanilla wooden counterparts
 The objective of this mod is to provide an alternative to trees in the early game allowing custom worlds that lack trees, or giving the player a different set of options in a normal world. 
 
 WIP Blocks/Items.
+
 () Reinforced Stone - Is a blast resistant (near obisidian) building block that is used in a variety of recipes and items.
 
 Crafted with 5 smooth stone and 4 iron bars; giving 8 reinforced stone.
